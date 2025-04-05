@@ -1,0 +1,16 @@
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\bin\Debug\net8.0-windows\Practica 15.exe
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\bin\Debug\net8.0-windows\Practica 15.deps.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\bin\Debug\net8.0-windows\Practica 15.runtimeconfig.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\bin\Debug\net8.0-windows\Practica 15.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\bin\Debug\net8.0-windows\Practica 15.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica_15.Form1.resources
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.vbproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.AssemblyInfo.vb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\refint\Practica 15.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\Practica 15.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas de estructuras selectivas\Practica 15\obj\Debug\net8.0-windows\ref\Practica 15.dll
