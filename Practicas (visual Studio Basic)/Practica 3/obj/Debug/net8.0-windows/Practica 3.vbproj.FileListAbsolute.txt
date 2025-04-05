@@ -1,0 +1,16 @@
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\bin\Debug\net8.0-windows\Practica 3.exe
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\bin\Debug\net8.0-windows\Practica 3.deps.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\bin\Debug\net8.0-windows\Practica 3.runtimeconfig.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\bin\Debug\net8.0-windows\Practica 3.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\bin\Debug\net8.0-windows\Practica 3.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica_3.Form1.resources
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.vbproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.AssemblyInfo.vb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\refint\Practica 3.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\Practica 3.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas visual studio\Practica 3\obj\Debug\net8.0-windows\ref\Practica 3.dll
