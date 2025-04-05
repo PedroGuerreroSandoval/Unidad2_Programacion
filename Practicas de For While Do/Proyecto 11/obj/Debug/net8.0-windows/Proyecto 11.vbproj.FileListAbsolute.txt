@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\bin\Debug\net8.0-windows\Proyecto 11.exe
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\bin\Debug\net8.0-windows\Proyecto 11.deps.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\bin\Debug\net8.0-windows\Proyecto 11.runtimeconfig.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\bin\Debug\net8.0-windows\Proyecto 11.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\bin\Debug\net8.0-windows\Proyecto 11.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto_11.Form1.resources
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto_11.Resources.resources
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.vbproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.AssemblyInfo.vb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\refint\Proyecto 11.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\Proyecto 11.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Proyecto 11\obj\Debug\net8.0-windows\ref\Proyecto 11.dll
