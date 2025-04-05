@@ -1,0 +1,16 @@
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\bin\Debug\net8.0-windows\Practica 1.exe
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\bin\Debug\net8.0-windows\Practica 1.deps.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\bin\Debug\net8.0-windows\Practica 1.runtimeconfig.json
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\bin\Debug\net8.0-windows\Practica 1.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\bin\Debug\net8.0-windows\Practica 1.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica_1.Form1.resources
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.vbproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.AssemblyInfo.vb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\refint\Practica 1.dll
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.pdb
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\Practica 1.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Clases de programacion\Unidad 2\Practicas FOR WHILE DO\Practica 1\obj\Debug\net8.0-windows\ref\Practica 1.dll
